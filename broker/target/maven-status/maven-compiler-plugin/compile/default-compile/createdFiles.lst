@@ -1,0 +1,5 @@
+com/projarq/broker/HistoryDTO.class
+com/projarq/broker/Receiver.class
+com/projarq/broker/RabbitMQConfig.class
+com/projarq/broker/HistoryServiceApplication.class
+com/projarq/broker/BrokerApplication.class

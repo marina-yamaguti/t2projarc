@@ -1,0 +1,10 @@
+com/projarq/asscache/repository/AssinaturaRepository.class
+com/projarq/asscache/AsscacheApplication.class
+com/projarq/asscache/service/CacheService.class
+com/projarq/asscache/config/RabbitMQConfig.class
+com/projarq/asscache/controller/AssinaturaController.class
+com/projarq/asscache/model/Assinatura.class
+com/projarq/asscache/service/CacheListener.class
+com/projarq/asscache/service/SCAAProxy.class
+com/projarq/asscache/repository/AssinaturaRepositoryInterface.class
+com/projarq/asscache/service/AssinaturaService.class
